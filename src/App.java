@@ -147,6 +147,7 @@ public class App {
         } else {
             System.out.println("El estudiante ha reprobado.");
             System.out.println("____________________________________________________");
+            
         }
     }
 
